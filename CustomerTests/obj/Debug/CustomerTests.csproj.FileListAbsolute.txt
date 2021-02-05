@@ -1,0 +1,16 @@
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\CustomerTests.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\CustomerTests.pdb
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\CustomerData.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\CustomerData.pdb
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\obj\Debug\CustomerTests.csprojAssemblyReference.cache
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\obj\Debug\CustomerTests.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\obj\Debug\CustomerTests.csproj.CopyComplete
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\obj\Debug\CustomerTests.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerTests\obj\Debug\CustomerTests.pdb

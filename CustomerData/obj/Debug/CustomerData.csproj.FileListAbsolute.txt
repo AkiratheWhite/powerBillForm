@@ -1,0 +1,6 @@
+C:\Users\Tony\source\repos\powerBillForm\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\Tony\source\repos\powerBillForm\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\Tony\source\repos\powerBillForm\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\powerBillForm\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\Tony\source\repos\powerBillForm\CustomerData\obj\Debug\CustomerData.pdb
